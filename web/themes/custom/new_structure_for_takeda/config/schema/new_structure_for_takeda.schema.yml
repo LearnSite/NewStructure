@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Bootstrap SASS Subtheme.
+
+new_structure_for_takeda.settings:
+  type: theme_settings
+  label: 'New structure for takeda Subtheme settings'
